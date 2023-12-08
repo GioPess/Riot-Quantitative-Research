@@ -1,9 +1,7 @@
 # Riot_Quantitative_Research
-
-# Riot_Quantitative_Research
 Welcome to the official GitHub repository of the Quantitative Research Division of Riot Investment Society. This repository, Riot_Quantitative_Research, serves as a dynamic and interactive platform for sharing the code and research materials produced by our team.
 
-# About Us
+## About Us
 Riot Investment Society's Quantitative Research Division is dedicated to exploring and analyzing financial markets using quantitative methods. Our team focuses on developing innovative tools and models to understand market dynamics better and to provide insightful investment strategies.
 
 # Repository Contents
