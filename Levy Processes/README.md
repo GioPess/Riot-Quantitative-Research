@@ -21,9 +21,9 @@ This Jupyter Notebook provides a comprehensive exploration of the applications o
 ### Acknowledgments
 
 The research, writing and coding for this article were conducted by:  
-[Donato Martinelli](https://www.linkedin.com/in/donato-martinelli-795542267/)
-[Francesca Paris](https://www.linkedin.com/in/francesca-paris-305119269/)
-[Paolo Pajo](https://www.linkedin.com/in/paolopajo/)
+[Donato Martinelli](https://www.linkedin.com/in/donato-martinelli-795542267/)  
+[Francesca Paris](https://www.linkedin.com/in/francesca-paris-305119269/)  
+[Paolo Pajo](https://www.linkedin.com/in/paolopajo/)  
 
 This notebook is the result of the work from Riot Investment Society | Quantitative Research Division.  
 If you find it useful or have suggestions for improvements, feel free to contribute or reach out at riotquantresearch@gmail.com.
