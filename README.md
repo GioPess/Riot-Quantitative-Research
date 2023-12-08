@@ -6,9 +6,8 @@ Riot Investment Society's Quantitative Research Division is dedicated to explori
 
 ### Repository Contents
 In this repository, you will find:
-
-- Code: All the scripts and software developed by our team. These may include data analysis tools, algorithmic trading strategies, and other quantitative models.  
-- Research Papers (PDFs): Comprehensive documentation of our research findings, methodologies, and analyses. These papers complement our blog posts and LinkedIn articles, offering a deeper dive into our work.
+*Code: All the scripts and software developed by our team. These may include data analysis tools, algorithmic trading strategies, and other quantitative models.  
+*Research Papers (PDFs): Comprehensive documentation of our research findings, methodologies, and analyses. These papers complement our blog posts and LinkedIn articles, offering a deeper dive into our work.
 
 ### Why GitHub?
 We chose GitHub as a platform to share our work because:
