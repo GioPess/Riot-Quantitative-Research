@@ -1,4 +1,4 @@
-# Riot_Quantitative_Research
+# Riot Quantitative Research
 Welcome to the official GitHub repository of the Quantitative Research Division of Riot Investment Society. This repository, Riot_Quantitative_Research, serves as a dynamic and interactive platform for sharing the code and research materials produced by our team.
 
 ### About Us
