@@ -26,4 +26,4 @@ The research, writing and coding for this article were conducted by:
 [Paolo Pajo](https://www.linkedin.com/in/paolopajo/)  
 
 This notebook is the result of the work from Riot Investment Society | Quantitative Research Division.  
-If you find it useful or have suggestions for improvements, feel free to contribute or reach out at riotquantresearch@gmail.com.
+If you find it useful or have suggestions for improvements, feel free to contribute or reach out at [Linkedin](https://www.linkedin.com/company/riot-investment-society/)
