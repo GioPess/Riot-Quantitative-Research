@@ -1,16 +1,3 @@
----
-jupyter:
-  colab:
-  kernelspec:
-    display_name: Python 3
-    name: python3
-  language_info:
-    name: python
-  nbformat: 4
-  nbformat_minor: 0
----
-
-::: {.cell .markdown id="0VWjugwVF7YC"}
 ## \# **Income Inequality and an Innovative Approach to Its Measures** {#-income-inequality-and-an-innovative-approach-to-its-measures}
 
 ## **Overview**
@@ -25,36 +12,36 @@ countries.
 
 ## **Table of Contents**
 
-### 1. Introduction {#1-introduction}
+### 1. Introduction
 
 -   Income inequality and its socio-economic impact\
 -   Research motivation
 
-### 2. Literature Review {#2-literature-review}
+### 2. Literature Review
 
 -   Traditional measures of income inequality\
 -   The relationship between GDP, median, and mean income\
 -   Gaps in existing research
 
-### 3. Methodology {#3-methodology}
+### 3. Methodology 
 
 -   Data collection\
 -   Data cleaning and organization\
 -   Statistical analysis and visualization\
 -   Limitations of the study
 
-### 4. Results {#4-results}
+### 4. Results 
 
 -   MMG ratio formulation and analysis\
 -   Regression and correlation analysis with the Gini coefficient\
 -   Outlier detection and distribution patterns
 
-### 5. Discussion and Conclusion {#5-discussion-and-conclusion}
+### 5. Discussion and Conclusion
 
 -   Interpretation of findings\
 -   Policy implications
 
-### 6. Future Research {#6-future-research}
+### 6. Future Research
 
 -   Predictive modeling using historical data\
 -   Trend analysis of income inequality\
@@ -84,4 +71,3 @@ for analyzing financial and economic disparities.
 If you find this research useful or have suggestions for improvements,
 feel free to contribute or reach out via
 [LinkedIn](https://www.linkedin.com/company/riot-investment-society/posts/?feedView=all).
-:::
